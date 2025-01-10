@@ -2,3 +2,4 @@ crewai
 crewai_tools
 load_dotenv
 langchain-huggingface
+pysqlite3-binary
